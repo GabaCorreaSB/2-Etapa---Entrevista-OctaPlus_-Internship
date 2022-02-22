@@ -30,6 +30,8 @@ def fibonacci(n):
     return value
 
 
+# Teste sequência até 1000
+
 for n in range(1, 1001):
     print(f'ratio: {fibonacci(n+1) / fibonacci(n)}')
     print(f'{n} : {fibonacci(n)}')
