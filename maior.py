@@ -1,3 +1,5 @@
+# Gabriel Correa dos Santos Barbosa
+
 ## Encontrar o maior número entre três números
 
 # Desafio: Escreva um programa que receba três números e encontre o maior dentre eles, sem utilizar rotinas builtin (por exemplo, rotina max do Python).

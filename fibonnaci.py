@@ -1,3 +1,5 @@
+# Gabriel Correa dos Santos Barbosa
+
 ## Imprimir elementos da sequência de Fibonacci
 
 # Definição: A sequência de Fibonacci (s[n]) é uma sequência de números inteiros positivos definida da seguinte forma:

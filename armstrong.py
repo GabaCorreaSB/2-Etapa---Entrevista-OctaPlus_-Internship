@@ -1,3 +1,5 @@
+# Gabriel Correa dos Santos Barbosa
+
 ## Verificar se um número é um número de Armstrong
 
 # Definição: Um número inteiro positivo x de n algarismos é um número de Armstrong de ordem n se x é igual a soma das n-ésimas potências de seus algarismos.
